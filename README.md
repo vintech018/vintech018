@@ -41,5 +41,5 @@ I love building scalable AI applications, exploring LLM architectures, and optim
 
 ---
 
-- 🔭 I’m currently working on: **C++**  
+- 🔭 I’m currently working on: **JAVA**  
 - 😄 Pronouns: **He/him**
